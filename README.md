@@ -37,17 +37,38 @@
   <br/> 
 <div>
 <details>
-  <summary><b>&nbsp;&nbsp;olist_customers_datase.csv — таблица с уникальными идентификаторами пользователей&nbsp;</b></summary>
+  <summary><b>&nbsp;&nbsp;default.peas — таблица с данными решенных заданий&nbsp;</b></summary>
   
-* customer_id — позаказный идентификатор пользователя
+* st_id — ID ученика
 
-* customer_unique_id —  уникальный идентификатор пользователя  (аналог номера паспорта)
+* timest —  Время решения карточки
 
-*  customer_zip_code_prefix —  почтовый индекс пользователя
+*  correct —  Правильно ли решена задача?
 
-*  customer_city —  город доставки пользователя
+*  subject —  Дисциплина, в которой находится задание
 
-*  customer_state —  штат доставки пользователя
+</details>
 
+<details>
+  <summary><b>&nbsp;&nbsp;default.studs —  таблица с принадлежностью к группе эксперимента&nbsp;</b></summary>
+  
+*  st_id —  ID ученика
 
+*  test_grp —  Метка ученика в данном эксперименте
+
+</details>
+
+<details>
+  <summary><b>&nbsp;&nbsp;default.final_project_check —  данные по покупках курса &nbsp;</b></summary>
+  
+*  st_id —  ID ученика
+  
+*  sale_time —  Время покупки
+   
+*  money —  Цена, по которой приобрели данный курс
+   
+*  subject — Дисциплина
+   
+</details>
+</div>
 </details>
