@@ -7,6 +7,9 @@
 <div align='center'>
    <img src="https://img.shields.io/badge/SQL-%23AFEEEE?style=for-the-badge&logo=SQL&logoColor=yellow"/>
    <img src="https://img.shields.io/badge/ClickHouse%20-%23AFEEEE?style=for-the-badge&logo=ClickHouse&logoColor=%23FFCC01"/>
-
-
+   <img src="https://img.shields.io/badge/Python-%23AFEEEE?style=for-the-badge&logo=Python&logoColor=yellow"/>
+   <img src="https://img.shields.io/badge/Pandahouse%23AFEEEE?style=for-the-badge&logo=Pandahouse&logoColor=yellow"/>
 </div>
+
+В данном проекте проанализируем 
+
