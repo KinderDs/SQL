@@ -1,6 +1,6 @@
 <div align='center'>
 <h1>
-  Когортный и RFM анализы!
+  SQL
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
@@ -10,4 +10,5 @@
    <img src="https://img.shields.io/badge/Seaborn-%23AFEEEE?style=for-the-badge&logo=Seaborn"/>
    <img src="https://img.shields.io/badge/matplotlib-%23AFEEEE?style=for-the-badge&logo=matplotlib&logoColor=white"/>
    <img src="https://img.shields.io/badge/numpy%20-%23AFEEEE?style=for-the-badge&logo=numpy%20&logoColor=white"/>
+   <img src="https://img.shields.io/badge/SQL-%23AFEEEE?style=for-the-badge&logo=SQL&logoColor=yellow"/>
 </div>
